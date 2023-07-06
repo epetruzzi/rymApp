@@ -1,0 +1,7 @@
+{
+  "name": "rymApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
